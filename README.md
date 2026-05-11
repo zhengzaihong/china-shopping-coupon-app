@@ -98,7 +98,9 @@
 
 查看下载地址文件：
 ```
-📄 app/HarmonyOS系统版本下载地址-华为应用市场.txt
+鸿蒙版：
+https://appgallery.huawei.com/app/C103502189
+
 ```
 
 或直接在华为应用市场搜索"**优惠券**"
